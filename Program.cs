@@ -1,0 +1,26 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Contando até dez...");
+System.Threading.Thread.Sleep(1000);
+Console.Write("0 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("1 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("2 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("3 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("4 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("5 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("6 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("7 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("8 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("9 ");
+System.Threading.Thread.Sleep(1000);
+Console.Write("10 ");
+System.Threading.Thread.Sleep(1000);
+Console.WriteLine("\nContagem concluída!");
